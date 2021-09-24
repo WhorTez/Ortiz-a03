@@ -4,7 +4,10 @@
  */
 package baseline;
 
+import java.util.Scanner;
+
 public class Solution24 {
+    private static final Scanner in = new Scanner(System.in);
     // Get strings from the user
         // prompt for string1
             //store string1
@@ -24,4 +27,17 @@ public class Solution24 {
 
         // output will say if strings are anagrams or not
 
+    public static void main(String[] args){
+        System.out.println("Enter two strings and this program will tell you if they are anagrams:");
+        System.out.print("Enter the first string: ");
+        String string1 = in.nextLine();
+        System.out.print("Enter the second string: ");
+        String string2 = in.nextLine();
+
+        if(Anagram.isAnagram(string1, string2)){
+            System.out.println("The two strings are anagrams of each other.");
+        }else{
+            System.out.println("The two strings you entered are not anagrams of each other.");
+        }
+    }
 }
