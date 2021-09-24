@@ -1,1 +1,2 @@
-# Ortiz-a03
+Duane Ortiz
+Assignment #3
