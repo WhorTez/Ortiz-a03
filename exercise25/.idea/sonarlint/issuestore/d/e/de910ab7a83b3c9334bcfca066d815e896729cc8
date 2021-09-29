@@ -1,0 +1,11 @@
+
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 28 to the 15 allowed.(ó¥µ¿
+N	java:S106J"9Replace this use of System.out or System.err by a logger.(ô¸¯¼
+N	java:S106P"9Replace this use of System.out or System.err by a logger.(‘¢êü
+N	java:S106T"9Replace this use of System.out or System.err by a logger.(”–û»
+S	java:S106X"9Replace this use of System.out or System.err by a logger.(×Ùæìÿÿÿÿÿ
+S	java:S106\"9Replace this use of System.out or System.err by a logger.(‘î³ÿøÿÿÿÿ
+;
+java:S3457`"%String contains no format specifiers.(åž•Ä
+N	java:S106`"9Replace this use of System.out or System.err by a logger.(åž•Ä
