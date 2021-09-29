@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="baseline.Solution25Test" tests="5" skipped="0" failures="0" errors="0" timestamp="2021-09-29T17:00:26" hostname="LAPTOP-QOAHT9K9" time="0.079">
+  <properties/>
+  <testcase name="passwordCheck1()" classname="baseline.Solution25Test" time="0.061"/>
+  <testcase name="passwordCheck2()" classname="baseline.Solution25Test" time="0.003"/>
+  <testcase name="passwordCheck3()" classname="baseline.Solution25Test" time="0.003"/>
+  <testcase name="passwordCheck4()" classname="baseline.Solution25Test" time="0.002"/>
+  <testcase name="passwordCheck5()" classname="baseline.Solution25Test" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
