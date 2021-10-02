@@ -32,6 +32,6 @@ Solution27 s = new Solution27();
         assertTrue(s.validateZipCode(32825));
     }
 
-    
+
 
 }
