@@ -15,7 +15,6 @@ Solution27 s = new Solution27();
     @Test
     void validateNameLength() {
         assertTrue(s.validateNameLength("Jah"));
-
     }
 
     @Test
@@ -32,4 +31,7 @@ Solution27 s = new Solution27();
     void validateZipCode() {
         assertTrue(s.validateZipCode(32825));
     }
+
+    
+
 }
