@@ -12,23 +12,30 @@ public class Solution33 {
     private static final Random r = new Random();
     public final String[] answers = {"Yes", "NO", "Maybe", "Ask again later."};
 
-    public static void main(String[] args){
-        //prompt user for a simple question
-        //get a random number from an RNG
-        //print out one of the answers listed above
-    }
-
     public void askQuestion(){
         //ask for a question
-        //return the question
+        System.out.print("Ask me anything \n>");
+        in.next();
     }
 
     public int RNG(){
         //return a random number 1-4
+        return r.nextInt(4);
     }
 
-    public String giveAnswer(){
+    public String giveAnswer(int rng){
         //returns an answer as the string
+        return answers[rng];
     }
+
+    public static void main(String[] args){
+        Solution33 s = new Solution33();
+        //prompt user for a simple question
+        s.askQuestion();
+        //get a random number from an RNG
+        //print out one of the answers listed above
+        System.out.printf("%s", s.giveAnswer(s.RNG()));
+    }
+
 
 }
