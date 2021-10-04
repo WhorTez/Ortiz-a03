@@ -1,0 +1,15 @@
+
+h	java:S116"NRename this field "RHR" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(È£ïòûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ï
+T
+java:S1117"7Rename "age" which hides the field declared at line 11.(¯Ó¶»8×ºëºÄ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Í—îØúÿÿÿÿ8×ºëºÄ/
+T	java:S106#"9Replace this use of System.out or System.err by a logger.(äî-8ÛºëºÄ/
+Z	java:S106/"9Replace this use of System.out or System.err by a logger.(äôª şÿÿÿÿ8ßºëºÄ/
+T	java:S1064"9Replace this use of System.out or System.err by a logger.(äî-8ãºëºÄ/
+Z	java:S106D"9Replace this use of System.out or System.err by a logger.(—šµÍúÿÿÿÿ8ëºëºÄ/
+U	java:S106E"9Replace this use of System.out or System.err by a logger.(³Ò›Ë8ïºëºÄ/
+Z	java:S106I"9Replace this use of System.out or System.err by a logger.(’Ã²êşÿÿÿÿ8ïºëºÄ/
+Z	java:S106J"9Replace this use of System.out or System.err by a logger.(ÀÅÌ”ûÿÿÿÿ8óºëºÄ/
+Z	java:S106K"9Replace this use of System.out or System.err by a logger.(öì‰úùÿÿÿÿ8óºëºÄ/
+r	java:S117="QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³£Ò­ÿÿÿÿÿ8ûºëºÄ/
